@@ -8,7 +8,7 @@ public class ShopButton : MonoBehaviour
     [SerializeField] private Button _button;
     [SerializeField] private Resources _resources;
     [SerializeField] private int _price;
-    [SerializeField] private Clickable _ñlickable;
+    [SerializeField] private ClickableMain _ñlickable;
 
     private void Start()
     {
